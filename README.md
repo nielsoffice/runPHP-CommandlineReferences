@@ -42,7 +42,7 @@ Run: CMD/CLi/GitBash
 <br />
 <br />php > require 'index.php'; // require file
 <br />php > getUserList();  // calling the function within the require file
-<br /> Output: string(4) "Thea" // output
+<br /> Output: string(4) "Tea" // output
 <br /> php >
 <br /> php > quit
 
