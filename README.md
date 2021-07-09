@@ -19,16 +19,16 @@ Go to "My Computer" // rightclick
 <br /> 
 <br /> > User variable for admin
 <br /> > Path 
-<br />   * Double click
-<br />   * New 
-<br />   * Paste php directory // C:\xampp\php
-<br />   * Click Ok
+<br />  → Double click
+<br />  → New 
+<br />  → Paste php directory // C:\xampp\php
+<br />  → Click Ok
 <br /> > New... // button
-<br />   > Variable name: any
-<br />   > Variable Value: C:\xampp\php
+<br />  → Variable name: any
+<br />  → Variable Value: C:\xampp\php
 <br /> 
-<br /> >Click Ok
-<br /> >System Properties Click Ok
+<br /> > Click Ok
+<br /> > System Properties Click Ok
 <br />
 Run: CMD/CLi/GitBash 
 <br />admin@DESKTOP-08MNQ2P MINGW64 /c/wamp64/www/phg
