@@ -33,4 +33,6 @@ Go to "My Computer" // rightclick
 Run: CMD/CLi/GitBash 
 <br />admin@DESKTOP-08MNQ2P MINGW64 /c/wamp64/www/phg
 <br />$ php file.php
+<br /> // include file index.php have function getUserList() {  // ; }
+<br />$ php -r 'include "index.php"; print getUserList();' // include file function and calling specific the function
 
