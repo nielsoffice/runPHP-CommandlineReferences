@@ -13,20 +13,20 @@ C:\xampp\php
 Note: Make sure you find the php application icon on the directory
 
 Go to "My Computer"
-> System Properties
-> Advanced
-> Environment Variable
-
-> User variable for admin
-  > Path
-    * Double click
-    * New 
-    * Paste php directory
-    * Click Ok
-> New...
-  > VAriable name: any
-  > Variable Value: C:\xampp\php
-
->Click Ok
->System Properties Click Ok
+<br /> > System Properties
+<br /> > Advanced
+<br /> > Environment Variable
+<br /> 
+<br /> > User variable for admin
+<br /> > Path
+<br /> * Double click
+<br /> * New 
+<br /> * Paste php directory
+<br /> * Click Ok
+<br /> > New...
+<br /> > VAriable name: any
+<br /> > Variable Value: C:\xampp\php
+<br /> 
+<br /> >Click Ok
+<br /> >System Properties Click Ok
 
