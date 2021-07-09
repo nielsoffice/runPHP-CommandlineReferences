@@ -29,4 +29,8 @@ Go to "My Computer"
 <br /> 
 <br /> >Click Ok
 <br /> >System Properties Click Ok
+<br />
+Run: CMD/CLi/GitBash 
+<br />admin@DESKTOP-08MNQ2P MINGW64 /c/wamp64/www/phg
+<br />$ php file.php
 
