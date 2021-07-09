@@ -4,14 +4,14 @@ PHP-Commandline References
 Run PHP Git Bash/CLI
 
 Go to directory where PHP installed.
-Example Wamp64 Server:
-C:\wamp64\bin\php\php7.4.9
-
-Xampp Server:
-C:\xampp\php
-
-Note: Make sure you find the php application icon on the directory
-
+<br /> Example Wamp64 Server:
+<br /> C:\wamp64\bin\php\php7.4.9
+<br /> 
+<br /> Xampp Server:
+<br /> C:\xampp\php
+<br /> 
+<br /> Note: Make sure you find the php application icon on the directory
+<br /> 
 Go to "My Computer"
 <br /> > System Properties
 <br /> > Advanced
