@@ -24,7 +24,7 @@ Go to "My Computer"
 <br /> * Paste php directory
 <br /> * Click Ok
 <br /> > New...
-<br /> > VAriable name: any
+<br /> > Variable name: any
 <br /> > Variable Value: C:\xampp\php
 <br /> 
 <br /> >Click Ok
